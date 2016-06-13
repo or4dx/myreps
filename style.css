@@ -1,0 +1,31 @@
+/* Empty. Add your own CSS if you like */
+
+.bar{
+	text-align: center;
+}
+
+.larger {
+    font-size: larger;
+}
+
+#map{
+    width:100%;
+    height:200px;
+    margin:10px auto;
+    box-shadow:0 3px 25px black;
+}
+
+
+.platform-android .bar-subheader.has-tabs-top{
+  top:93px !important;
+}
+
+.platform-android .has-subheader.has-tabs-top{
+  top:137px;
+}
+
+.theitem
+{
+	text-align: center;
+}
+}
