@@ -1,0 +1,48 @@
+ <ion-view view-title="Current Local Goverment">      
+
+<!-- <ion-nav-buttons side="secondary" >   
+      <a class="button button-clear ion-refresh icon icon-right" ui-sref="maps"> 
+      </a>
+</ion-nav-buttons> --> 
+
+  <ion-content on-swipe-right="goBack()" on-swipe-left="goForward()">
+  <ion-refresher on-refresh="doRefresh_hor()"  pulling-text="Refresh"></ion-refresher>
+
+   <div class="theitem item item-divider item-text-wrap" >
+<h2>Pull to Refresh</b> </h2>
+
+</div>
+
+<div class="item item-divider">
+<h3>The Senator Representing this area </h3>
+
+</div>
+<ion-list="list list-inset">
+
+<ion-item>
+ <h2> <B>{{lga_senator}}</B></h2>
+ <h2>Senator Name</h2>
+</ion-item>
+<ion-item>
+  <h2><B>{{lga_name}}</B></h2>
+  <h2>Senator LGA</h2>
+</ion-item>
+
+<ion-item>
+<h2><B>{{lga_state}}</B></h2>
+<h2>Senator State</h2>
+</ion-item>
+
+<ion-item>
+<h2><B></B></h2>
+<h2>Senator Official E-mail</h2> 
+</ion-item>
+
+
+</ion-content>
+
+    
+    </ion-view>
+  </body>
+</html>
+

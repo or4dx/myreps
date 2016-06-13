@@ -1,0 +1,17 @@
+  <ion-modal-view >
+    <ion-header-bar class="bar-balanced"  ng-controller="LctnCtrl" >
+    <ion-nav-button side="secondary">
+      <h4 >Close</h4>
+  </ion-nav-buttton>
+  <h1 class="title">State</h1>
+    </ion-header-bar>
+    <ion-content>
+     <ion-list class="list-inset"> 
+     <ion-item class="item-text-wrap" ng-repeat="state in states | filter: {Name: statename}">
+       {{state.Name}}
+    </ion-item>
+    </ion-list>
+
+
+    </ion-content>
+  </ion-modal-view>

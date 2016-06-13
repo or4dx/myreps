@@ -1,0 +1,37 @@
+<ion-view view-title="List of Available States">
+
+<div class="bar bar-subheader item-input-inset bar-light">
+ <label class="item-input-wrapper">
+    <i class="icon ion-search placeholder-icon"></i>
+    <input type="search" ng-model="query"  placeholder="Search">
+ </label>
+</div>
+
+
+<ion-content class="has-subheader" ng-controller="LctnCtrl">
+
+<div class="item item-divider">
+<h2>States</h2>
+</div>
+
+<ion-list class="list list-inset" >
+
+
+<!--<ion-item ng-repeat='state in states | filter: query' click= "openModal()">
+
+ ng-click= "openModal()" 
+
+</ion-item>-->
+
+<a class="item item-icon-right" ng-repeat='state in states | filter: query' href ="#/tab/menu/{{state.Name}}">
+<h2>{{state.Name}}</h2>
+</a>
+
+
+
+</ion-list>
+
+
+
+</ion-content>
+</ion-view>

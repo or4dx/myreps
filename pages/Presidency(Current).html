@@ -1,0 +1,40 @@
+<ion-view view-title="Current Local Goverment"> 
+  
+        
+<!-- <ion-nav-buttons side="secondary" >   
+      <a class="button button-clear ion-refresh icon icon-right" ui-sref="maps"> 
+      </a>
+</ion-nav-buttons> --> 
+
+  <ion-content on-swipe-right="goBack()" on-swipe-left="goForward()">
+  <ion-refresher on-refresh="doRefresh_pres()"  pulling-text="Refresh"></ion-refresher>
+
+   <div class="theitem item item-divider item-text-wrap" >
+<h2>Pull to Refresh</b> </h2>
+
+</div>
+
+<div class="item item-divider">
+<h3> Presidency </h3>
+
+</div>
+<ion-list="list list-inset">
+
+<ion-item class="item item-avatar-left padding-right">
+<img src="img/buhari.jpg" alt="Avatar">
+<h2><B>{{president}}</B></h2>
+   <h3>President Name</h3> 
+</ion-item>
+
+<ion-item class="item item-avatar-left padding-right">
+<img src="img/osinbajo.jpg" alt="Avatar">
+  <h2><B>{{vice_pres}}</B></h2>
+  <h3>Vice-President Name</h3> 
+</ion-item>
+
+</ion-content>
+    </ion-pane>
+
+
+ </ion-view>
+

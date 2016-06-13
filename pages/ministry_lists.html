@@ -1,0 +1,45 @@
+<ion-view view-title="List of National Ministries">
+
+
+<div class="bar bar-subheader item-input-inset bar-light">
+ <label class="item-input-wrapper">
+    <i class="icon ion-search placeholder-icon"></i>
+    <input type="search" ng-model="query"  placeholder="Search">
+ </label>
+</div>
+
+
+<ion-content class="has-subheader" ng-controller="LctnCtrl">
+
+<div class="item item-divider">
+<h2>National Ministries</h2>
+</div>
+
+<ion-list class="list list-inset" >
+
+
+
+<ion-item class="item item-icon-right" ng-repeat='min in ministry | filter: query'  href ="#/tab/menu/ministry_lists/{{min.short}}">
+<h2>{{min.Name}}</h2>
+
+
+</ion-item>
+
+
+
+
+
+
+
+
+
+
+</ion-list>
+
+
+
+</ion-content>
+
+
+
+</ion-view>

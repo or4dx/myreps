@@ -1,0 +1,23 @@
+  <ion-view title="Current State">
+    <ion-content>
+</div>
+     <ion-list class="list-inset"> 
+     <ion-item class="item-text-wrap" ng-repeat="state in states | filter: {Name: statename}">
+      <h2> <B> {{state.Name}}</B></h2> 
+       <h3>State Name</h3>
+    </ion-item>
+
+     <ion-item class="item-text-wrap" ng-repeat="state in states | filter: {Name: statename}">
+      <h2> <B> {{state.Governor}}</B></h2> 
+       <h3>Governor Name</h3>
+    </ion-item>
+
+     <ion-item class="item-text-wrap" ng-repeat="state in states | filter: {Name: statename}">
+      <h2> <B> {{state.LGAs}}</B></h2> 
+       <h3>LGA's</h3>
+    </ion-item>
+    </ion-list>
+
+
+    </ion-content>
+  </ion-view>

@@ -1,0 +1,80 @@
+  <ion-view view-title="Current Local Goverment">
+
+
+ <!-- <ion-nav-buttons side="secondary" >   
+      <a class="button button-clear ion-refresh icon icon-right"> 
+      </a>
+</ion-nav-buttons>-->
+
+
+
+
+
+<ion-content on-swipe-right="goBack()" on-swipe-left="goForward()">
+<ion-refresher on-refresh="doRefresh()" pulling-text="Refresh"></ion-refresher>
+
+
+ 
+
+
+  <div class="theitem item item-divider item-text-wrap" >
+<h2>Pull to Refresh</b> </h2>
+
+</div>
+
+<div ng-controller="LctnCtrl"  class= "has-subheader">
+    <div id="map" data-tap-disabled="true">
+    </div>
+
+  <div class="item item-divider item-text-wrap">
+<h2>Your Current Location is :<b> {{addr}}</b> </h2>
+
+</div>
+
+
+
+
+<ion-list="list list-inset">
+
+<ion-item class="item item-avatar-left padding">
+ <h2> <B>{{lga_name}} </B></h2>
+  <h3>Current LGA Name</h3>
+</ion-item>
+<ion-item class="item item-avatar-left padding">
+  <h2><B>{{lga_chair}}</B></h2>
+  <h3>LGA Chairman</h3>
+</ion-item>
+
+<ion-item class="item item-avatar-left padding">
+<h2><B>{{lga_vice}}</B></h2>
+<h3>LGA Vice</h3> 
+</ion-item>
+
+<ion-item class="item item-avatar-left padding">
+<h2><B>{{lga_state}}</B></h2>
+<h3>LGA State </h3> 
+</ion-item>
+
+<ion-item class="item item-avatar-left padding">
+<h2> <B>{{lga_addr}}</B></h2>
+<h3>LGA Address</h3>
+</ion-item>
+
+
+
+</ion-list>
+
+</ion-content>
+
+
+
+
+
+
+
+      
+    
+</ion-view>
+
+  </body>
+</html>

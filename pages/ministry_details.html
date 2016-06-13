@@ -1,0 +1,40 @@
+  <ion-view title="Current Ministry">
+    <ion-content>
+     <ion-list class="list-inset"> 
+     <ion-item class="item-text-wrap" ng-repeat="min in ministry | filter: {Name: minname}">
+      <h2> <B>{{min.Name}} </B></h2> 
+       <h3>Ministry Name</h3>
+    </ion-item>
+
+    <ion-item class="item-text-wrap" ng-repeat="min in ministry | filter: {Name: minname}">
+      <h2> <B>{{min.Minister}}</B></h2> 
+       <h3>Minister Name</h3>
+    </ion-item>
+  
+  <ion-item class="item-text-wrap" ng-hide="!min.Name1" ng-repeat="min in ministry | filter: {Name: minname}">
+      <h2> <B>{{min.Name1}} </B></h2> 
+       <h3>Ministry Name</h3>
+    </ion-item>
+
+    <ion-item class="item-text-wrap" ng-hide="!min.Minister1" ng-repeat="min in ministry | filter: {Name: minname}">
+      <h2> <B>{{min.Minister1}}</B></h2> 
+       <h3>Minister Name</h3>
+    </ion-item>
+
+
+    <ion-item class="item-text-wrap" ng-repeat="min in ministry | filter: {Name: minname}">
+      <h2> <B>{{min.address}}</B></h2> 
+       <h3>Ministry Address</h3>
+    </ion-item>
+
+    <ion-item class="item-text-wrap" ng-repeat="min in ministry | filter: {Name: minname}">
+      <h2> <B> </B></h2> 
+       <h3>Ministry E-mail</h3>
+    </ion-item>
+
+  
+    </ion-list>
+
+
+    </ion-content>
+  </ion-view>

@@ -1,0 +1,642 @@
+{
+  "states": [
+    {
+      "Name": "Abia",
+      "Governor": "Gov.Okezie Ikpeazu",
+      "LGAs": "Aba North | Aba South | Arochukwu | Bende | Ikawuno | Ikwuano| Isiala-Ngwa North | Isiala-Ngwa South | Isikwuato | Isuikwuato | Nneochi | Obi Ngwa | Obi Ngwa | Obioma Ngwa | Obioma-Ngwa | Ohafia | Ohaozara | Osisioma | Ugwunagbo | Ukwa West | Ukwu East | Umuahia | Umuahia North | Umuahia South | Umuahia-North | Umunneochi"
+    },
+
+     {
+      "Name": "Adamawa",
+      "Governor": "Gov.Jibrilla Bindow  ",
+      "LGAs": "Demsa | Fufore | Ganye | Girei | Gombi | Guyuk | Hong | Jada | Jimeta | Lamurde | Madagali | Maiha | Mayo-Belwa| Michika | Mubi-North | Mubi-South | Numan | Shelleng | Song | Toungo | Yola"
+    },
+
+     {
+      "Name": "Akwa-Ibom",
+      "Governor": "Gov.Udom Gabriel Emmanuel",
+      "LGAs": "Abak | Eastern-Obolo | Eket | Ekpe-Atani | Esit Ekit | Essien-Udim | Etim-Ekpo | Etinam | Ibeno | Ibesikpo-Asutan | Ibiono-Ibom | Ika, Ikono | Ikot-Abasi | Ikot-Ekpene | Ini | Itu | Mbo | Mkpat-Enin | Nsit-Ibom | Nsit-Ubium | Obot-Akara | Okobo, Onna, Oron | Oruk Anam | Udung-Uko | Ukanefun | Uquo Ibeno | Uru Offong Oruko | Uruan | Uruk-Anam | Uyo "
+    },
+
+     {
+      "Name": "Anambra",
+      "Governor": "Gov.Willie Obiano",
+      "LGAs": "Aguata | Akwa North | Anambra | Anambra-West | Anaocha | Awka-North | Awka-South | Ayamelum | Dunukofia | Ekwusigo | Idemili | Idemili-North | Idemili-South | Ihiala | Imo | Nibo | Njikoka | Nnewi | Nnewi-North | Nnewi-South | Ogbaru | Olumba | Onitsha-North | Onitsha-South | Orumba-North | Orumba-South | Oti | Otu-Ocha | Ubuluizor Ihiala | Uyi"
+    },
+
+     {
+      "Name": "Bauchi",
+      "Governor": "Gov.Mohammed Abdullahi Abubakar",
+      "LGAs": "Alkaleri | Bauchi | Bogoro | Damban | Darazo | Dass | Gamawa | Ganjuwa | Giade | Itas/Gadau | Jama'Are | Katagum | Kirfi | Misau | Ningi | Shira | Tafawa-Balewa | Toro | Warji | Zaki"
+    },
+
+     {
+      "Name": "Bayelsa",
+      "Governor": "Gov.Henry Dickson ",
+      "LGAs": "Adagbabiri | Brass | Ekeremor | Kembe | Kolokuma | Kolokuma/Opkuma | Nembe | Ogbia | Sagbama | Southern-Ijaw | Toru-Abubo | Yenegoa"
+    },
+
+     {
+      "Name": "Benue",
+      "Governor": "Gov.Samuel Ortom",
+      "LGAs": "Ado | Agatu | Apa | Buruku | Gboko | Guma | Gwer-East | Gwer-West | Katsina-Ala | Konshisha | Kwande| Logo | Makurdi | Ogbadibo | Ohimini | Oju | Okpokwu | Otukpo | Oturkpa | Tarka | Ukum | Ushongo | Vandeikya "
+    },
+
+     {
+      "Name": "Borno",
+      "Governor": "Gov.Kashim Shettima",
+      "LGAs": "Abadan | Askira-Uba | Bama | Bayo | Biu | Chibok | Damboa | Dikwa | Gubio | Guzamala | Gwoza | Hawul | Jere | Kaga | Kala/Balge | Konduga | Kukawa | Kwaya-Kusar | Mafa | Magumeri | Maiduguri | Marte | Mobbar | Mongunu | Ngala | Nganzai | Shani "
+    },
+
+
+     {
+      "Name": "Cross-River",
+      "Governor": "Gov.Benedict Ayade  ",
+      "LGAs": "Abi | Abuochichie | Akamkpa | Akpabuyo | Bakassi | Bekwara | Biasi | Boki | Calabar-Municipal | Calabar-South | Etunk | Ikom| Obanliku | Obubra | Obudu | Odukpani | Ogoja | Ugep-North | Yakurr | Yala "
+    },
+
+     {
+      "Name": "Delta",
+      "Governor": "Gov.Ifeanyi Okowa ",
+      "LGAs": "Aniocha North | Aniocha-North | Aniocha-South | Bomadi | Burutu | Effurun | Ethiope-East | Ethiope-West | Idu | Ika-Ne | Ika-North-East | Ika-South | Ikpemili | Isoko-North | Isoko-South | Ndokwa-East | Ndokwa-North | Ndokwa-South | Ndokwa-West |Okpe | Okwuani | Oleh | Oshielli-North | Oshimili | Oshimili-North | Oshimili-South | Osimili | Osimili-North | Osimili-South |Patani | Sapele | Udokwa | Udu | Ughelli-North | Ughelli-South | Ukwuani | Uraun | Urwie | Uvie | Uvwei | Uvwie | Uwvie | Warri-Central | Warri-North | Warri-South"
+    },
+
+     {
+      "Name": "Ebonyi",
+      "Governor": "Gov.Dave Umahi",
+      "LGAs": "Abakaliki | Afikpo-North | Afikpo-South | Bomadim | Ebonyi | Ezza-North | Ezza-South | Ikwo | Ishielu | Ivo | Izzi | Obaukwu |Ohakwu | Onicha | Ukaba |"
+    },
+
+     {
+      "Name": "Edo",
+      "Governor": "Gov.Adams Oshiomhole ",
+      "LGAs": "Afokpella | Afuze | Agbazilo | Akoko Edo | Akoko-Edo | Egor | Esan-Central | Esan-North-East | Esan-North-East | Esan-South-East | Esan-West | Etsako-Central | Etsako-East | Etsako-West | Igueben | Iguobano North East | Ikpoba-Okha |Ohunmwode | Ologbo | Opoji Irrua | Opoji Irrua | Oredo | Orhionmwon | Ovia-North-East | Ovia-South-West | Owan East |Owan-East | Owan-West | Uhunmwonde"
+    },
+
+     {
+      "Name": "Ekiti",
+      "Governor": "Gov.Ayo Fayose   ",
+      "LGAs": "Ado-Ekiti | Aiyekire | Efon | Ekiti-East | Ekiti-South-West | Ekiti-West | Emure/Ise/Orun | Gbonyin | Ido-Osi | Ijero | Ikare |Ikere | Ikole | Ilejemeje | Irepodun/Ifelodun | Ise-Orun | Moba | Oye"
+    },
+
+     {
+      "Name": "Enugu",
+      "Governor": "Gov.Ifeanyi Ugwuanyi",
+      "LGAs": "Aninri | Awgu | Enugu-East | Enugu-North | Enugu-South | Ezeagu | Igbo-Etiti | Igbo-Eze-North | Igbo-Eze-South | Isi-Uzo |Nkanu-East | Nkanu-West | Nsukka | Nukanu East | Oji-River | Udenu | Udi | Uzo-Uwani"
+    },
+
+     {
+      "Name": "Gombe",
+      "Governor": "Gov.Ibrahim Hassan Dankwambo",
+      "LGAs": "Akko | Balanga | Billiri | Dukku | Funakaye | Gombe | Kaltungo | Kwami | Nafada/Bajoga | Shomgom | Yamaltu/Deba"
+    },
+
+     {
+      "Name": "Imo",
+      "Governor": "Gov.Owelle Rochas Okorocha",
+      "LGAs": "Aboh-Mbaise | Ahiazu-Mbaise | Dral-Esat | Ehime-Mbano | Ezeobodo | Ezinihitte | Ideato | Ideato-North | Ideato-South |Ihitte/Uboma | Ikeduru | Isiala-Mbano | Isu | Mbaitoli | Mbano | Ngor-Okpala | Njaba | Nkwerre | Nwangele | Obowo | Oguta |Ohaji-Egbema | Okigwe | Onuimo | Orlu | Oro-West | Orsu | Oru-East | Oru-West | Owerri-Municipal | Owerri-North | Owerri-West | Ugiri-Ike Ikeduru | Ugiri-Ikedikeduru | Unbano | Zinihitte"
+    },
+
+     {
+      "Name": "Jigawa",
+      "Governor": "Gov.Badaru Abubakar",
+      "LGAs": "Auyo | Babura | Biriniwa | Birnin-Kudu | Bosuwa | Buji | Dutse | Gagarawa | Garki | Gumel | Guri | Gwaram | Gwiwa | Hadejia |Jahun | Kafin-Hausa | Kaugama | Kazaure | Kirkasamma | Maigatari | Malam-Maduri | Miga | Ringim | Roni | Sule-Tankarkar |Taura | Yankwashi"
+    },
+
+     {
+      "Name": "Kaduna",
+      "Governor": "Gov.Nasir Ahmad el-Rufai",
+      "LGAs": "Birnin-Gwari | Chikun | Giwa | Gwagwada | Igabi | Ikara | Jaba | Jema'A | Kachia | Kaduna-North | Kagarko | Kajuru | Kaura |Kauru | Koka/Kawo | Kubah | Kudan | Lere | Makarfi | Sabon-Gari | Sanga | Soba | Tudun-Wada/Makera | Zango-Kataf | Zaria "
+    },
+
+     {
+      "Name": "Kano",
+      "Governor": "Gov.Abdullahi Umar Ganduje",
+      "LGAs": "Ajingi | Albasu | Bagwai | Bebeji | Bichi | Bunkure | Dala | Dambatta | Dawakin-Kudu | Dawakin-Tofa | Doguwa | Fagge |Gabasawa | Garko | Garun-Mallam | Gaya | Gezawa | Gwale | Gwarzo | Kano-Municipal | Karaye | Kibiya | Kiru | Kumbotso |Kunchi | Kura | Madobi | Makoda | Minjibir | Nasarawa | Rano | Rimin-Gado | Rogo | Shanono | Sumaila | Takai | Tarauni | Tofa| Tsanyawa | Tudun-Wada | Ungogo | Warawa | Wudil"
+    },
+
+     {
+      "Name": "Katsina",
+      "Governor": "Gov.Aminu Bello Masari",
+      "LGAs": "Bakori | Batagarawa | Batsari | Baure | Bindawa | Charanchi | Dan-Musa | Dandume | Danji | Daura | Dutsi | Dutsinma | Faskari| Funtua | Ingawa | Jibia | Kafur | Kaita | Kankara | Kankia | Katsina | Kurfi | Kusada | Mai-Adua | Malumfashi | Mani | Mashi |Matazu | Musawa | Rimi | Sabuwa | Safana | Sandamu | Zango"
+    },
+
+     {
+      "Name": "Kebbi",
+      "Governor": "Gov.Abubakar Atiku Bagudu",
+      "LGAs": "Aleiro | Arewa-Dandi | Argungu | Augie | Bagudo | Birnin-Kebbi | Bumza | Dandi | Danko | Fakai | Gwandu | Jega | Kalgo |Koko-Besse | Maiyama | Ngaski | Sakaba | Shanga | Suru | Wasagu | Yauri | Zuru"
+    },
+
+     {
+      "Name": "Kogi",
+      "Governor": "Gov.Yahaya Bello",
+      "LGAs": "Adavi | Ajaokuta | Ankpa | Dekina | Ibaji | Idah | Igalamela | Ijumu | Ikoyi-Ijumu | Kabba/Bunu | Kogi | Lokoja | Mopa-Muro-Mopi | Obaji | Ofu | Ogori/Magongo | Okehi | Okene | Olamaboro | Omala | Oru | Oyi | Yagba-East | Yagba-West"
+    },
+
+     {
+      "Name": "Kwara",
+      "Governor": "Gov.Abdulfatah Ahmed ",
+      "LGAs": "Asa | Baruten | Edu | Ekiti | Ilorin-East | Ilorin-South | Ilorin-West | Isin | Kaiama | Moro | Offa | Oke-Ero | Oyun | Pategi"
+    },
+
+     {
+      "Name": "Lagos",
+      "Governor": "Gov.Akinwunmi Ambode",
+      "LGAs": "Agege | Ajeromi-Ifelodun | Alimosho | Amuwo-Odofin | Apapa | Badagry | Epe | Eti-Osa | Ibeju-Lekki | Ifako-Ijaiye | Ikeja |Ikorodu | Island | Kosofe | Lagos-Island | Lagos-Mainland | Mushin | Ojo | Oshodi-Isolo | Shomolu | Somolu | Suru-Lere"
+    },
+
+     {
+      "Name": "Nasarawa",
+      "Governor": "Gov.Umaru Tanko Al-Makura",
+      "LGAs": "Akwanga | Awe | Doma | Karu | Keana | Keffi | Kokona | Lafia | Nassawara | Nassawara Eggon | Obi | Wambu |"
+    },
+
+     {
+      "Name": "Niger",
+      "Governor": "Gov.Abubakar Sani Bello",
+      "LGAs": "Agaie | Agwara | Bida | Borgu | Bosso | Chanchaga | Edati | Gbako | Gurara | Katcha | Kontagora | Lapai | Lavun | Magama |Mariga | Mashegu | Mokwa | Muya | Paikoro | Rafi | Rijau | Shiroro | Suleja | Tafa | Wushishi"
+    },
+
+     {
+      "Name": "Ogun",
+      "Governor": "Gov.Ibikunle Oyelaja Amosun",
+      "LGAs": "Abeokuta-North | Abeokuta-South | Abor Mbaise | Ado-Odo/Ota | Adoodo-Ota | Ewekoro | Idarapo | Iffo-Otta | Ifo | Igbado-North | Igbado-South | Ijebu-East | Ijebu-North | Ijebu-North-East | Ijebu-Ode | Ikenne | Ilishan Remo | Ilugun-Alaro | Imeko-Afon | Ipokia | Lgayekpe | Obafemi-Owode | Odedah | Odogbolu | Ogun-Waterside | Remo-North | Sagamu | Shagamu | Yewa"
+    },
+
+     {
+      "Name": "Ondo",
+      "Governor": "Gov.Olusegun Mimiko",
+      "LGAs": "Akoko | Akoko-North | Akoko-North-West | Akoko-South | Akoko-South-East | Akure | Akure-North | Akure-South | Ese-Odo |Idanre | Ifedore | Igbisin | Ikale | Ilaje | Ilaje-West | Ile-Oluji-Okeigbo | Irele | Odigbo | Oka Ak0Ko | Okiti Pupa Ijuodo | Okiti-Pupa | Ondo | Ondo West | Ondo-East | Ose | Owo"
+    },
+
+     {
+      "Name": "Osun",
+      "Governor": "Gov.Rauf Aregbesola  ",
+      "LGAs": "Atakumosa | Atakumosa East | Ayeda-Ade | Ayedire | Boluwaduro | Boripe | Ede | Ede North | Egbedore | Ejigbo | Ife | Ife North | Ife South | Ife-Central | Ife-East | Ifelodun | Ila | Ilesa-East | Ilesa-West | Ilesha | Ilesha West | Irepodun | Irewole |Isokan | Iwo | Obokun | Odo-Otin | Ola Oluwa | Olorunda | Ori-Ade | Orolu | Osogbo"
+    },
+
+     {
+      "Name": "Oyo",
+      "Governor": "Gov.Isiaka Abiola Ajimobi",
+      "LGAs": "Afijio | Akinyele | Atiba | Atigbo | Egbeda | Ibadan-Central | Ibadan-North-East | Ibadan-North-West | Ibadan-South-East |Ibadan-South-West | Ibarapa-Central | Ibarapa-East | Ibarapa-North | Ido | Ifedayo | Ifeloju | Irepo | Iseyin | Itseiwaju | Iwajowa| Kajola | Lagelu | Odo-Oluwa | Ogbomosho-North | Ogbomosho-South | Olorunsogo | Oluyole | Ona-Ara | Orelope | Ori-Ire |Oyo-West | Saki-East | Saki-West | Surulere"
+    },
+
+     {
+      "Name": "Plateau",
+      "Governor": "Gov.Simon Lalong",
+      "LGAs": "Barkin-Ladi | Bassa | Bokkos | Jos-East | Jos-North | Jos-South | Kanam | Kanke | Langtang-North | Langtang-South | Mangu| Mikang | Pankshin | Quan'Anpan | Riyom | Shendam | Wase"
+    },
+
+     {
+      "Name": "Rivers",
+      "Governor": "Gov.Ezenwo Nyesom Wike",
+      "LGAs": "Aboa/Odual | Ahoada-East | Ahoada-West | Akukutoru | Andoni | Asari-Toru | Bonny | Buguma | Degema | Eleme | Elfane |Emuoha | Etche | Gokana | Ikwerre | Khana | Obia/Akpor | Ogba-Egbema-Ndoni | Ogba/Egbema/Ndoni | Ogu/Bolo | Okirika |Omuma | Opobo/Nkoro | Oyigbo | Port-Harcourt | Tai"
+    },
+
+     {
+      "Name": "Sokoto",
+      "Governor": "Gov.Aminu Waziri Tambuwal",
+      "LGAs": "Binji | Bodinga | Dange-Shuni | Gada | Goronyo | Gudu | Gwadabawa | Illela | Kebbe | Kware | Raba | Sabo-Birni | Shagari |Silame | Sokoto-North | Sokoto-South | Tambuwal | Tangaza | Tureta | Wamakko | Wurno | Yabo"
+    },
+
+     {
+      "Name": "Taraba",
+      "Governor": "Gov. Darius Ishaku  ",
+      "LGAs": "Ardo-Kola | Bali | Donga | Gashaka | Gassol | Ibi | Jalingo | Karim-Lamido | Kurmi | Lau | Oilingo | Sardauna | Takum | Ussa |Wukari | Yorro | Zing"
+    },
+
+
+     {
+      "Name": "Yobe",
+      "Governor": "Gov.Ibrahim Geidam",
+      "LGAs": "Ardo-Kola | Bali | Donga | Gashaka | Gassol | Ibi | Jalingo | Karim-Lamido | Kurmi | Lau | Oilingo | Sardauna | Takum | Ussa |Wukari | Yorro | Zing"
+    },
+
+     {
+      "Name": "Zamfara",
+      "Governor": "Gov.Abdul-Aziz Yari Abubakar",
+      "LGAs": "Ardo-Kola | Bali | Donga | Gashaka | Gassol | Ibi | Jalingo | Karim-Lamido | Kurmi | Lau | Oilingo | Sardauna | Takum | Ussa |Wukari | Yorro | Zing "
+    }
+
+
+  
+
+    ],
+
+
+
+
+     "ministry": [
+    {
+      "Name": "Ministry of Labour and Employment",
+      "Minister": "Mr.Chris Ngige",
+      "Name1": "Ministry of State Labour & Employment",
+      "Minister1": " James Ocholi",
+      "short": "Labour",
+      "e-mail": "",
+      "address":"2nd Floor (257-237), Block 4A, New Federal Secretariat Complex, Shehu Shagari Way Central Area, Abuja"
+    },
+     {
+      "Name": "Ministry of Niger Delta",
+      "Minister": " Usani Uguru",
+      "Name1": "Ministry of State Niger Delta",
+      "Minister1": "Claudius Omoyele Daramola",
+      "short": "Foreign",
+      "e-mail": "",
+      "address": ""
+    },
+
+     {
+      "Name": "Ministry of Education",
+      "Minister": "Adamu Adamu",
+      "Name1": "Ministry of State Education",
+      "Minister1": "Anthony Anwuka",
+      "short": "Education",
+      "e-mail": "",
+       "address": "Federal Secretariat, Phase 2 (3rd Floor) Shehu Shagari Way, Abuja"
+    },
+
+
+ {
+      "Name": "Ministry of Trade,Investment and Industry",
+      "Minister": "Okechukwu Enelemah",
+      "Name1": "Ministry of State Trade,Investment and Industry",
+      "Minister1": "Aisha Abubakar",
+      "short": "Industry",
+      "e-mail": "",
+      "address": "5th Floor, Annex 3, New Federal Secretariat Complex, Shehu Shagari Way Central Area, Abuja"
+    },
+    
+
+     {
+      "Name": "Ministry of Solid Minerals",
+      "Minister": "Kayode Fayemi",
+      "Name1": "Ministry of State Solid Minerals",
+      "Minister1": "Abubakar Bwari",
+      "short": "Solid",
+      "e-mail": "",
+      "address": "5th Floor, Annex 3, New Federal Secretariat Complex, Shehu Shagari Way Central Area, Abuja"
+    },
+
+
+     {
+      "Name": "Ministry of Power",
+      "Minister": " Babatunde Fashola",
+      "Name1": "Ministry of State Power",
+      "Minister1": "Mustapha Shehuri",
+      "short": "Power",
+     "e-mail": "",
+     "address":"New Fed. Secretariat Complex 3rd - 4th Floors, Annex B Shehu Shagari Way, Abuja"
+    },
+
+
+     {
+      "Name": "Ministry of Works and Housing",
+      "Minister": " Babatunde Fashola",
+      "Name1": "Ministry of State Works and Housing",
+      "Minister1": "Mustapha Shehuri",
+      "short": "Power",
+     "e-mail": "",
+     "address":"Radio House, Herbert Macaulay Way (South) P.M.B. ill, Garki, Abuja (Opp. Int'l. Conference Centre)"
+    },
+
+
+     {
+      "Name": "Ministry of Petroleum",
+      "Minister": "Pres. Muhammed Buhari",
+      "Name1": "Ministry of State Petroleum",
+      "Minister1": " Emmanuel Ibe Kachiukwu",
+      "short": "Petroleum",
+      "e-mail": "",
+       "address": "Federal Secretariat Shehu Shagari Way, Abuja"
+    },
+
+     {
+      "Name": "Ministry of Health",
+      "Minister": "Isaac Folorunsho Adeoye",
+      "Name1": "Ministry of State Health",
+      "Minister1": " Osagie Ehanire",
+      "short": "Health",
+      "e-mail": "",
+       "address": "Block 4A (301-399), 3rd Floor New Fed. Secretariat Complex, Shehu Shagari Way, P.M.B. 83, (Garki Post Office), Abuja"
+    },
+
+     {
+      "Name": "Ministry of Agriculture and Rural Development",
+      "Minister": "Audu Ogbeh",
+      "Name1": "Ministry of State Agriculture and Rural Development",
+      "Minister1": "Heineken Lokpobiri",
+      "short": "Agriculture",
+      "e-mail": "",
+      "address": "Complex Block A, Area 11 (Eleven) P.M.B. 135, Garki, Abuja, FCT"
+    },
+
+     {
+      "Name": "Ministry of Budget and National Planning",
+      "Minister": "Udoma Udo Udoma",
+      "Name1": "Ministry of State Budget and National Planning",
+      "Minister1": "Zainab Ahmed",
+      "short": "Budget",
+      "e-mail": "",
+      "address": ""
+    },
+
+     {
+      "Name": "Ministry of Environment",
+      "Minister": "Amina Mohammed",
+      "Name": "Ministry of State Environment",
+      "Minister": "Ibrahim Jibrin",
+      "short": "Environment",
+      "e-mail": "",
+       "address": "Federal Secretariat Complex 9th Floor, Shehu Shagari Way PMB 468 Garki Abuja"
+    },
+     {
+      "Name": "Ministry of Transportation",
+       "short": "Transportation",
+      "Minister": " Chibuike Amaechi",
+      "e-mail": "",
+      "address":"2nd Floor, Annex 3, New Fed. Secretariat Complex Shehu Shagari Way, Central Area, P.M.B. 1136"
+    },
+
+     {
+      "Name": "Ministry of Interior",
+      "short": "Interior",
+      "Minister": "Abdulrahman Dambazzau",
+       "address": "",
+      "e-mail": "",
+      "address":""
+    },
+
+     {
+      "Name": "Ministry of Women Affairs",
+      "short": "Women",
+      "Minister": "Aisha Alhassan",
+      "e-mail": "",
+      "address": "2nd Floor (201-224), Annex 3, New Federal Secretariat Complex, Shehu Shagari Way P.M.B. 229, Central Area, Abuja, FCT"
+      
+    },
+
+
+     {
+      "Name": "Ministry of Science and Technology",
+      "short": "Science",
+     "Minister": "Ogbonnaya Onu",
+      "e-mail": "",
+      "address": "9th Floor, New Fed. Government Secretariat (Opp. New Parade Ground), Shehu Shagari"
+    },
+
+     {
+      "Name": "Ministry of Finance",
+      "short": "Finance",
+      "Minister": "Kemi Adeosun",
+      "e-mail": "",
+      "address": "(Opposite Central Bank) P.M.B. 14, Garki, Abuja"
+    },
+
+     {
+      "Name": "Ministry of Justice and Attorney General",
+      "short": "Justice",
+     "Minister": "Abubakar Malami",
+      "e-mail": "",
+      "address": "New Fed. Secretariat Complex 10th Floor, Federal Secretariat, Wing lB (1001-1099), Block One, Shehu Shagari Way, Abuja "
+    },
+
+     {
+      "Name": "Ministry of State Aviation",
+      "short": "Aviation",
+      "Minister": "Hadi Sirika",
+      "e-mail": "",
+      "address": "Fed. Secretariat, Shehu Shagari Way Abuja"
+    },
+
+     {
+      "Name": "Ministry of Communication",
+      "short": "Communication",
+      "Minister": "Adebayo Shittu",
+      "e-mail": "",
+       "address": "Federal Secretariat, 2nd & 3rd Floors, Abuja"
+    },
+
+     {
+      "Name": "Ministry of Water Resources",
+      "short": "Water",
+      "Minister": "Suleiman Adamu",
+      "e-mail": "",
+      "address": "P.M.B. 159, Block 'A', Old Secretariat Area I Garki, Abuja"
+    },
+
+     {
+      "Name": "Ministry of Youths and Sports",
+      "short": "Youths",
+      "Minister": "Solomon Dalong",
+      "e-mail": "",
+      "address":""
+    },
+
+     {
+      "Name": "Ministry of Information",
+      "short": "Information",
+      "Minister": "Lai Mohammed",
+      "e-mail": "",
+      "address": ""
+    },
+
+     {
+       "Name": "Ministry of Foreign Affairs",
+      "Minister": "Geoffrey Onyeama",
+      "short": "Foreign",
+      "e-mail": "",
+       "address": "Maputo St., Wuse, Zone 3 (Opposite Nigeria Custom Services), P.M.B. 130, Garki, Abuja"
+    },
+
+     {
+      "Name": "Ministry of Defence",
+      "short": "Defence",
+      "Minister": "Mohammed Dan Ali",
+      "e-mail": "",
+      "address": "Defence Headquarters Opp. Agura Hotel, P.M.B. 196, Area 7 Garki, Abuja"
+    },
+
+     {
+      "Name": "Ministry of the Federal Capital Territory",
+      "short": "Capital ",
+      "Minister": "Mohammed Bello",
+      "e-mail": "",
+      "address": "Area 11, Garki, Abuja P.M.B. 25, Garki, Abuja"
+    }
+
+
+    ],
+
+
+     "lga": [
+    {
+      "Name": "SHOMOLU",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "ALIMOSHO",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "APAPA",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "MUSHIN I",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "MUSHIN II",
+     "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "ETI-OSA",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "IBEJU-LEKKI",
+     "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+
+     {
+      "Name": "AMUWO-ODOFIN",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "LAGOS ISLAND",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "LAGOS MAINLAND",
+     "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "SURULERE I",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "SURULERE II",
+     "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "LAGOS ISLAND",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "OSHODI/ISOLO I",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "OSHODI/ISOLO II",
+     "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "EROMI/IFELODUN",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "IKEJA",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "IKORODU",
+     "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "IFAKO-IJAIYE",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "AGEGE",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "KOSOFE",
+      "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "OJO",
+     "Chairman": "",
+      "address": "",
+      "state": ""
+    },
+
+     {
+      "Name": "EPE",
+     "Chairman": "",
+      "address": "",
+      "state": ""
+    }
+
+    
+    ]
+
+
+
+
+}
+

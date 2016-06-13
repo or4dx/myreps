@@ -1,0 +1,42 @@
+<ion-view view-title="Other Local Governments">
+
+<div class="bar bar-subheader item-input-inset bar-light">
+ <label class="item-input-wrapper">
+    <i class="icon ion-search placeholder-icon"></i>
+    <input type="search" ng-model="query"  placeholder="Search">
+ </label>
+</div>
+
+
+<ion-content class="has-subheader" ng-controller="LctnCtrl">
+
+<div class="item item-divider">
+<h2>Local Governments</h2>
+</div>
+
+<ion-list class="list list-inset" >
+
+
+<ion-item ng-repeat='loc in lga | filter: query'>
+
+{{loc.Name}}
+
+</ion-item>
+
+
+
+
+
+</ion-list>
+
+
+
+</ion-content>
+
+
+
+
+
+
+
+</ion-view>

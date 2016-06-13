@@ -1,0 +1,28 @@
+<ion-tabs swipable='true' class="tabs-icon-top tabs-bottom tabs-color-dark tabs-balanced tabs-striped">
+
+<ion-tab title="Local Government Area" ng-class="{'selected': selected == 'Local Government Area'}"  icon="ion-ios-navigate-outline" href="#/tab/LG(Current)" >
+<ion-nav-view  name="LG(Current)-tab"></ion-nav-view>
+</ion-tab>
+
+<ion-tab title="House of Reps" ng-class="{'selected': selected == 'Local Government Area'}"  icon="ion-ios-people-outline"  href="#/tab/State-Senate(Current)">
+<ion-nav-view name="State-Senate(Current)-tab"></ion-nav-view>
+</ion-tab>
+
+<ion-tab title="Ministry"  icon="ion-ios-home-outline"  href="#/tab/Ministry(Current)">
+<ion-nav-view name="Ministry(Current)-tab"></ion-nav-view>
+</ion-tab>
+
+<!--<ion-tab title="Senate" icon="ion-ios-people"  href="#/tab/National-Assembly(Current)">
+<ion-nav-view name="National-Assembly(Current)-tab"></ion-nav-view>
+</ion-tab>-->
+
+<ion-tab title="Presidency" icon="ion-person-stalker"  href="#/tab/Presidency(Current)">
+<ion-nav-view name="Presidency(Current)-tab"></ion-nav-view>
+</ion-tab>
+
+<ion-tab title="Menu" icon="ion-navicon-round"  href="#/tab/menu">
+<ion-nav-view name="menu-tab"></ion-nav-view>
+</ion-tab>
+
+</ion-tabs>
+
